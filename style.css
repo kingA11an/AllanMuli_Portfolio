@@ -313,6 +313,12 @@ section {
   margin: auto 0;
 }
 
+.edu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 /* EXPERIENCE */
 
 #experience {
